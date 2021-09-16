@@ -1,0 +1,11 @@
+Run starting. Expected test count is: 2
+assignment_test:
+The XML file
+- should have 1 record with 4 columns (29 seconds, 411 milliseconds)
+The JSON file
+- should have 1 record with 4 columns (2 seconds, 432 milliseconds)
+Run completed in 32 seconds, 149 milliseconds.
+Total number of tests run: 2
+Suites: completed 1, aborted 0
+Tests: succeeded 2, failed 0, canceled 0, ignored 0, pending 0
+All tests passed.
